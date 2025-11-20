@@ -1,6 +1,9 @@
 # Apple-Music-Dashboard
 A PowerBI dashboard for analysing apple music usage
 
+## 📊 Dashboard Preview
+![](assets/dashboard.png)
+
 KPIs extracted:   
 -Total Albums/Artists/Tracks Played Over Time  
 -Number of Albums/Artists/Tracks Listened by Year  
